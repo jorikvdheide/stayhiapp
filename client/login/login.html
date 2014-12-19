@@ -1,0 +1,22 @@
+<template name="facebook-login">
+	<div class="login">
+		<div class="row">
+			<div class="col-sm-offset-3 col-sm-6">
+		  		{{> loginButtons}}
+			</div>
+		</div>
+	</div>
+</template>
+
+<template name="login-Layout">
+	{{> yield}}
+</template>
+
+<template name="login2">
+	<div class="login-body">
+		<div class="logo"></div>
+		<div class="facebook">
+			<a href="{{pathFor 'timeline'}}"><img src="http://jagthedrummer.github.io/service_oriented_authentication/img/LoginWithFacebook.png"></a>
+		</div>
+	</div>
+</template>

@@ -1,0 +1,31 @@
+.tabbar {
+	height: 49pt;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	z-index: 10000;
+	background-color: #F2F2F2;
+}
+
+.tabbar i {
+	font-size: 24px;
+	opacity: .6;
+	color: #000;
+}
+
+.tabbar ul {
+	width: 32%;
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+}
+
+.tabbar ul li {
+	list-style: none;
+}
+
+.tab-item {
+	width: 32%;
+	display: inline-block;
+}

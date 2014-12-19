@@ -1,0 +1,16 @@
+.login-body {
+	background-image: url('https://cdn.invisionapp.com/cdn/9d7ec97c056782bfdb71c11660226d15/screens/52808029/1/b7KtFF81VX6V8ffrh9kLiNSgp9oNCyxdaUKu9zYvtcWrLli6qfdVxPKqRG8uH6e2GfJoUj2w7Bv7DJHQRi95LQ7/Intro.png');
+	background-size: cover;
+	height: 568px;
+}
+
+.facebook {
+	width: 100%;
+}
+
+.facebook img{
+	width: 80%;
+	position: fixed;
+	bottom: 30%;
+	left: 10%;
+}

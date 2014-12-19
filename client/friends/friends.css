@@ -1,0 +1,27 @@
+.main {
+	margin-top: 44pt;
+}
+
+.friend1 {
+	padding: 10px;
+	height: 100px;
+	background-color: #fff;
+}
+
+.friend1 img {
+	width: 80px;
+	height: 80px;
+	border-radius: 100%;
+}
+
+.friend2 {
+	padding: 10px;
+	height: 100px;
+	background-color: #f2f2f2;
+}
+
+.friend2 img {
+	width: 80px;
+	height: 80px;
+	border-radius: 100%;
+}

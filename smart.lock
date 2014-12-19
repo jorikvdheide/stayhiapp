@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "accounts-facebook-cordova": {}
+    },
+    "packages": {
+      "accounts-facebook-cordova": {
+        "git": "https://github.com/andrewreedy/meteor-accounts-facebook-cordova.git",
+        "tag": "v0.0.2",
+        "commit": "b5b31564ae6ba9fd060ac6057106b7c7a903ef81"
+      }
+    }
+  }
+}

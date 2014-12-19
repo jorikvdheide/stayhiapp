@@ -1,0 +1,85 @@
+.main {
+	margin-top: 44pt;
+	margin-bottom: 49pt;
+}
+
+.timeline1 {
+	background-color: #fff;
+}
+
+.timeline1 .video {
+	width: 100%;
+	min-height: 250px;
+	background-image: url('http://cdn.thedailybeast.com/content/dailybeast/articles/2013/02/08/9-fashion-brands-and-editors-to-follow-on-the-new-vine-app-video/jcr:content/image.img.2000.jpg/1360295360947.cached.jpg');
+	background-size: cover;
+	text-align: center;
+}
+
+.timeline1 .video img {
+	margin-top: 60px;
+}
+
+.timelineuserinfo {
+	height: 80px;
+}
+
+.timeline1 .user {
+	margin: 10px;
+	width: 60px;
+	height: 60px;
+	border-radius: 100%;
+	float: left;
+}
+
+.timeline2 {
+	padding: 10px;
+	height: 100px;
+	background-color: #f2f2f2;
+}
+
+.timeline2 .user {
+	width: 80px;
+	height: 80px;
+	border-radius: 100%;
+}
+
+.details {
+	width: 180px;
+	float: left;
+	margin-top: 25px;
+}
+
+.timeline-buttons{
+	width: 40px;
+	float: left;
+	margin-top: 25px;
+}
+
+.likes {
+	width: 40px;
+	display: inline-block;
+}
+
+.more {
+	width: 40px;
+	display: inline-block;
+}
+
+.time {
+	width: 180px;
+	display: inline-block;
+	color: #B4B4B4;
+}
+
+.user_name {
+	width: 180px;
+	display: inline-block;	
+	color: #34246f;
+	text-transform: uppercase;
+	font-family: "HelveticaNeue-CondensedBold";	
+	font-weight: 500;
+	font-size: 16px;
+}
+
+
+

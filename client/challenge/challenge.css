@@ -1,0 +1,49 @@
+.video-capture button {
+	width: 100%;
+	background: #333333;
+	height: 200px;
+	border: none;
+}
+
+.challenge-title {
+	border-bottom: 2px solid #ECECEC;
+	padding: 15px;
+	font-size: 16px;
+	line-height: 16px;
+	text-transform: uppercase;
+}
+
+.challenge-description {
+	padding: 15px;
+}
+
+.share-button {
+	width: 100%;
+	font-size: 16px;
+	line-height: 16px;
+	background-color: #34246F;
+	padding: 15px;
+	text-align: center;
+	color: #fff;
+	border-bottom: 1px solid #2E2063;
+}
+
+.share-button a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.challenge-friend {
+	width: 100%;
+	font-size: 16px;
+	line-height: 16px;
+	background-color: #34246F;
+	padding: 15px;
+	text-align: center;
+	color: #fff;
+}
+
+.challenge-friend a {
+	color: #fff;
+	text-decoration: none;
+}

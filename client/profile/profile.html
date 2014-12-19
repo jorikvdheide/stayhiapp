@@ -1,0 +1,44 @@
+<template name="profile">
+  <div class="topbar">
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="page-title">
+          Profile
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="main">
+    <div class="profile-top">
+      <div class="profile-top-image">
+        <img class="user" src="http://www.findyourhubby.com/uploads/1/0/7/9/10797361/7461154_orig.png">
+        <div class="profile-top-username">
+          Samantha Ayrton
+        </div>
+        <div class="profile-top-location">
+          <i class="fa fa-map-marker"></i> Amsterdam, Netherlands
+        </div>
+      </div>
+    </div>
+    <div class="share-button">
+      <div class="col-sm-4 challenges">Challenges</div>
+      <div class="col-sm-4 challenged">Challenged</div>
+      <div class="col-sm-4 friends"><a href="{{pathFor 'friends'}}">Friends</a></div>
+      <div class="col-sm-4 challenges">10</div>
+      <div class="col-sm-4 challenged">4</div>
+      <div class="col-sm-4 friends"><a href="{{pathFor 'friends'}}">6</a></div>
+    </div>
+    <div class="challenge-friend">
+      <a href="{{pathFor '#'}}">Find friends <i class="fa fa-arrow-right"></i></a>
+    </div>
+    <div class="profile-social">
+      <i class="fa fa-facebook"></i> Facebook
+    </div>
+    <div class="profile-social">
+      <i class="fa fa-twitter"></i> Twitter
+    </div>
+    <div class="profile-social">
+      <i class="fa fa-instagram"></i> Instagram
+    </div>
+  </div>
+</template>

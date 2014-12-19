@@ -1,0 +1,56 @@
+.profile-top {
+	width: 100%;
+	background: #333333;
+	height: 250px;
+	border: none;
+}
+
+.profile-top-image {
+	text-align: center;
+}
+
+.profile-top-image img {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	border: 2px solid white;
+	margin-top: 40px;
+}
+
+.profile-top-username {
+	color: #fff;
+	text-transform: uppercase;
+	font-family: "HelveticaNeue-CondensedBold";	
+	font-weight: 500;
+	font-size: 16px;
+	margin-top: 10px;
+}
+
+.profile-top-location {
+	color: #fff;
+	margin-top: 10px;
+}
+
+.challenges {
+	border-right: 1px solid grey;
+	width: 32%;
+	display: inline-block;
+}
+
+.challenged {
+	border-right: 1px solid grey;
+	width: 32%;
+	display: inline-block;
+}
+
+.friends {
+	width: 32%;
+	display: inline-block;
+}
+
+.profile-social {
+	width: 100%;
+	font-size: 16px;
+	line-height: 16px;
+	padding: 15px;
+}
